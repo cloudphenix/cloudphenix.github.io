@@ -1,4 +1,6 @@
 title: "CloudPhenix.com"
 description: "Born from the Cloud"
 theme: jekyll-theme-cayman
+sass:
+  style: compressed
 
