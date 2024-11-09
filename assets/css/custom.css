@@ -1,0 +1,9 @@
+/* In assets/css/custom.css */
+
+body {
+    background-image: url('/assets/images/background.jpg'); /* Path to your image */
+    background-attachment: fixed;
+    background-size: cover; /* Covers the entire viewport */
+    background-position: center;
+  }
+  

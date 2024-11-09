@@ -1,5 +1,6 @@
 ---
 layout: default
+class: home
 title: Cloud Phenix
 ---
 
