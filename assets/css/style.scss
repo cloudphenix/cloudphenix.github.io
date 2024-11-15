@@ -7,12 +7,12 @@
 .page-header {
     color: #fff;
     text-align: center;
-    background-color: #159957;
-    background: linear-gradient(120deg, BLACK, #2C9BEA); /* Replace these colors with your desired gradient */
+    background-color: #1B1B1B;
+    background: linear-gradient(120deg, black, #2C9BEA); /* Replace these colors with your desired gradient */
   }
   
 body {
-    background-image: url('/assets/images/background.png'); /* Path to your image */
+    background-image: url('/assets/images/logo.png'); /* Path to your image */
     background-attachment: fixed;
     background-size: cover; /* Covers the entire viewport */
     background-position: center;
