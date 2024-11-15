@@ -1,0 +1,22 @@
+@import "{{ site.theme }}";
+
+.page-header {
+    color: #fff;
+    text-align: center;
+    background-color: #159957;
+    background: linear-gradient(120deg, BLACK, #2C9BEA); /* Replace these colors with your desired gradient */
+  }
+  
+body {
+    background-image: url('/assets/images/background.jpg'); /* Path to your image */
+    background-attachment: fixed;
+    background-size: cover; /* Covers the entire viewport */
+    background-position: center;
+}
+
+.site-logo {
+    max-width: 100px; /* Adjust the size of the logo */
+    height: auto;
+    margin-right: 10px; /* Add spacing between the logo and title */
+    vertical-align: middle; /* Align the logo with the text */
+}
