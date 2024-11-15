@@ -3,8 +3,7 @@
 
 @import "{{ site.theme }}";
 
-
-@media screen and (max-width: 42em) {
+@media screen and (max-width: 64em) {
     .page-header {
         padding: 1rem 1rem;
     }
@@ -22,6 +21,7 @@ body {
     background-attachment: fixed;
     background-size: cover; /* Covers the entire viewport */
     background-position: center;
+    background-color: #1B1B1B;
 }
 
 .site-logo {
